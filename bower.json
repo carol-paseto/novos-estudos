@@ -1,0 +1,21 @@
+{
+  "name": "EstudoBRA",
+  "homepage": "https://github.com/carol-paseto/novos-estudos",
+  "authors": [
+    "Caroline <caroline@loftdigital.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
